@@ -18,5 +18,5 @@ This project spawned from my need to be able to remotely control decent sized lo
 I'll have as much as I can posted at http://enhanced.github.io in terms of directions and how my actual setup looks
 
 ## What it looks like
-![Power ON]({{ site.baseurl | prepend:site.url}}on.png "Power On")
-![Power ON]({{ site.baseurl | prepend:site.url}}off.png "Power Off")
+![Power ON](on.png "Power On")
+![Power ON](off.png "Power Off")
