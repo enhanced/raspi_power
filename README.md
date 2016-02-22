@@ -18,7 +18,7 @@ This project spawned from my need to be able to remotely control decent sized lo
 
 I'll have as much as I can posted at http://enhanced.github.io in terms of directions and what my setup (physically) looks like.
 
-## What it looks like
+## What the interface UI looks like in its current state
 
 Power On:<br>
 ![Power ON](on.png "Power On")
