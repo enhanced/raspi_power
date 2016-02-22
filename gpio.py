@@ -89,7 +89,7 @@ print("</table>")
 
 pi.stop()
 
-print("""<table><tr><th>Device</th><th>Action</th></tr><form method="post" action="test.py">
+print("""<table><tr><th>Device</th><th>Action</th></tr><form method="post" action="gpio.py">
 <tr><td><select name = "gpio">
 """)
 
@@ -112,7 +112,7 @@ print("""</select></td><td>
 """)
 
 print("""<tr><td colspan="2">
-<form method="post" action="test.py"><br>
+<form method="post" action="gpio.py"><br>
 <input class="button" type="submit" value="Refresh" name="action">
 <br>
 </td></tr></form></table>""")
