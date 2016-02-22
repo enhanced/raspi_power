@@ -19,8 +19,8 @@ I'll have as much as I can posted at http://enhanced.github.io in terms of direc
 
 ## What it looks like
 
-Power On:
+Power On:<br>
 ![Power ON](on.png "Power On")
 
-Power Off:
+Power Off:<br>
 ![Power ON](off.png "Power Off")
