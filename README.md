@@ -11,11 +11,11 @@ This project spawned from my need to be able to remotely control decent sized lo
 
 ## What you need to do
 1. You will need to clone this repository
-2. Allow the wevserver context to execute the python code 
+2. Allow the webserver context to execute the python code 
 3. Modify the relay_pins table to match however you wired it up
 4. Good Luck 
 
-I'll have as much as I can posted at http://enhanced.github.io in terms of directions and how my actual setup looks
+I'll have as much as I can posted at http://enhanced.github.io in terms of directions and what my setup (physically) looks like.
 
 ## What it looks like
 
