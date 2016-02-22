@@ -24,4 +24,7 @@ Power On:<br>
 ![Power ON](on.png "Power On")
 
 Power Off:<br>
-![Power ON](off.png "Power Off")
+![Power Off](off.png "Power Off")
+
+Power Off Physical Image (corresponds to above image):<br>
+![Physical Power Off](pi_on.jpg "Physical Power Off")
