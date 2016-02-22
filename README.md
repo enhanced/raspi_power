@@ -1,5 +1,5 @@
 # raspi_power
-This project spawned from my need to be able to remotely control decent sized loads to be able to power cycle equipment to build an amateur radio repeater.
+This project spawned from my need to be able to remotely control decent sized loads to be able to power cycle equipment for an amateur radio repeater buildout.  This makes use of a Rasberry Pi's GPIO pins and an external relay board.  This code is simply a quick UI that I wrote up to control the GPIOs through a webserver.  You will want to add auth - it's on my to-do list but since I don't have any other base code I didn't want to add it just yet.
 
 ## Requirements
 * [pigpio daemon](http://abyz.co.uk/rpi/pigpio/)
