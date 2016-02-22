@@ -18,5 +18,9 @@ This project spawned from my need to be able to remotely control decent sized lo
 I'll have as much as I can posted at http://enhanced.github.io in terms of directions and how my actual setup looks
 
 ## What it looks like
+
+Power On:
 ![Power ON](on.png "Power On")
+
+Power Off:
 ![Power ON](off.png "Power Off")
